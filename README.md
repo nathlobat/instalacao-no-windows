@@ -21,4 +21,13 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+EM CASO DE DÚVIDAS NA INSTALAÇÃO DO WINDOWS.:
+
+Ao instalar o Ruby on Rails no Sistema Operacional Windows, você deve procurar um arquivo chamado GEMFILE e acessa-lo.
+Quando abrir o arquivo você deve apagar os " s " dos HTTP, para que o *bundle install* rode e o *rails server* funcione também, pelo menos no Windows é assim. 
+
+
+obs.: qualquer coisa senão funcionar pode entrar em contato comigo. :)
