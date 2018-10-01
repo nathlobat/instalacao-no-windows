@@ -30,4 +30,3 @@ Ao instalar o Ruby on Rails no Sistema Operacional Windows, você deve procurar 
 Quando abrir o arquivo você deve apagar os " s " dos HTTP, para que o *bundle install* rode e o *rails server* funcione também, pelo menos no Windows é assim. 
 
 
-obs.: qualquer coisa senão funcionar pode entrar em contato comigo. :)
